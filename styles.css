@@ -14,10 +14,7 @@
 body {
     background-color: hsl(30, 38%, 65%);
     display: flex;
-    justify-content: center;
-    align-items: center;
     font-size: 14px;
-    
 }
 
 /* Content */
@@ -29,9 +26,9 @@ body {
     border-radius: 30px;
     justify-content: center;
     align-items: center;
-    
-    margin-left: auto;
+    margin-top: 175px;
     margin-right: auto;
+    margin-left: auto;
 
 }
 
